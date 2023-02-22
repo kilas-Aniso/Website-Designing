@@ -1,0 +1,128 @@
+body{
+background-color: ivory;
+
+}
+
+
+
+.container{
+width: 90%;
+height: 15vh;
+
+
+}
+nav{
+    display: flex;
+    align-items: center;
+    padding-right: 8%;
+    padding-left: 10%;
+    padding-top: 1%;
+    justify-content: space-between                                        ;
+ 
+
+}
+.name{
+    color: black;
+    font-size: 28px;
+    margin-left: 2%;
+
+}
+nav ul li{
+    list-style-type: none;
+    display:inline-block;
+
+    font-weight: bold;
+    padding: 10px 25px;
+    
+}
+nav ul li a :hover{
+    color: grey;
+    transition: -3s;
+
+
+}
+#button{
+    border: none;
+    padding: 15px 30px;
+    border-radius: 50px;
+    color: blue;
+    font-weight: bold;
+    justify-content: flex-end;
+}
+h2{
+font-size: 40px;
+padding-left: 90px;
+
+
+
+}
+span{
+    color: darkblue;
+    
+
+
+}
+h3{
+    padding-left: 30px;
+    padding-bottom: 60px;
+
+
+
+}
+.image{
+    object-position: top right;
+    margin-left: 60%;
+    margin-top: -20%;
+
+ 
+
+}
+#down{
+    border: none;
+    padding: 15px 30px;
+    border-radius: 50px;
+    color: white;
+    font-weight: bold;
+    justify-content: flex-end;
+    background-color: blue;
+    padding-bottom: 5px;
+
+
+}
+#playButton{
+    border: none;
+    padding: 15px 30px;
+    border-radius: 50px;
+    color: black;
+    font-weight: bold;
+    justify-content: flex-end;
+    background-color: antiquewhite;
+    padding-bottom: 5px;
+
+}
+#easyControl{
+    border: none;
+    padding: 15px 30px;
+    border-radius: 50px;
+    color: blue
+    font-weight: bold;
+    justify-content: flex-end;
+    background-color: antiquewhite;
+
+
+
+}
+#fullstarts{
+    border: none;
+    padding: 15px 30px;
+    border-radius: 50px;
+    color: black;
+    font-weight: bold;
+    justify-content: flex-end;
+    background-color: antiquewhite;
+
+
+
+}
+
+
